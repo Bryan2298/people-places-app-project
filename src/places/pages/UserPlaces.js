@@ -7,7 +7,7 @@ const DUMMY_PLACES = [
   {
     id: 'p1',
     title: 'KLCC',
-    description: 'The tallest twin towers in the world!',
+    description: 'Kuala Lumpur City Centre (KLCC) is a multipurpose development area in Kuala Lumpur, Malaysia. Designed to be a city within a city, the 100-acre site hosts the tallest twin buildings in the world, the fourth tallest hotel in the world, a shopping mall, office buildings and several hotels.',
     image: 'https://www.suriaklcc.com.my/wp-content/uploads/2022/01/Lake-Symphony.jpg',
     address: '241, Suria KLCC, Kuala Lumpur City Centre, 50088 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur',
     location: {
